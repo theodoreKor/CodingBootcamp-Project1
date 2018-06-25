@@ -1,7 +1,6 @@
 # AFDemp Coding Bootcamp
 
-## Project 1 
-- Individual
+## Project 1-Individual
 
 ### Definition
 
@@ -44,4 +43,5 @@ The following description of the logical units of the application is given in or
 8. Extra classes that you might need get 1 mark each with a total of 7 marks. **[1 mark each class, 7 marks in total]**
 
 **Total marks for the Project = 100**
+
 **Oral Examination marks = 20**
