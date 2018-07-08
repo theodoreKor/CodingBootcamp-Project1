@@ -31,14 +31,14 @@ The following description of the logical units of the application is given in or
 3. The super admin must have the option to create, delete, update the users of the system. **[5 marks]**
 4. The super admin must have the option to assign a role to each created user. **[5 marks]**
 5. Each role has different responsibilities to the application. The responsibilities are:
-* View the transacted data between the users. **[5 marks]**
-* View and Edit the transacted data between the users. **[5 marks]**
-* View, Edit and Delete the transacted data between the users. **[10 marks]**
+   * View the transacted data between the users. **[5 marks]**
+   * View and Edit the transacted data between the users. **[5 marks]**
+   * View, Edit and Delete the transacted data between the users. **[10 marks]**
 6. Each user must be able to interact with any other user in terms of sending any data that you decided as if it was an email message. This data must contain any text limited to 250 characters. Every message containing this data must be stored to the database along with the following information **[15 marks]**
-* Date of submission
-* Sender
-* Receiver
-* Message Data
+   * Date of submission
+   * Sender
+   * Receiver
+   * Message Data
 7. All the messages between the users must be stored in files so that all the transacted messages exist in these files and each file has the same contents as described in 6. **[8 marks]**
 8. Extra classes that you might need get 1 mark each with a total of 7 marks. **[1 mark each class, 7 marks in total]**
 
